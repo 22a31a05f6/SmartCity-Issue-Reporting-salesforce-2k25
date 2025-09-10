@@ -1,7 +1,7 @@
 # 🏙️ Smart City Issue Reporting & Resolution System  
 
 ## 📌 Project Overview  
-The **Smart City Issue Reporting & Resolution System** is a digital platform that enables citizens to report civic issues such as potholes, garbage, drainage, and broken streetlights through an online portal.  
+The **Smart City Issue Reporting & Resolution System** is a online platform that enables citizens to report civic issues such as potholes, garbage, drainage, and broken streetlights through an online portal.  
 Built on **Salesforce Experience Cloud**, this solution streamlines the entire process of issue reporting, assignment, escalation, and resolution. It enhances **transparency, accountability, and service efficiency** by automating workflows and providing real-time dashboards for supervisors.  
 
 ---
@@ -28,9 +28,9 @@ Built on **Salesforce Experience Cloud**, this solution streamlines the entire p
 ---
 
 ## 🔑 Key Features  
-- ✅ **Citizen Portal** (Experience Cloud) with new issue and reopen case options.  
+- ✅ **Citizen Portal** (Experience Cloud) including new issue and reopen case options.  
 - ✅ **Automated Case Creation** via Flows.  
-- ✅ **Assignment Rules** to route issues by type (Potholes → Roads Dept, Streetlights → Electrical Dept, etc.).  
+- ✅ **Assignment Rules** to send issues by type (Potholes → Roads Dept, Streetlights → Electrical Dept, etc.).  
 - ✅ **Email Alerts** for case updates (Received, In Progress, Resolved).  
 - ✅ **Escalation Rules** for overdue issues.  
 - ✅ **Reopen Case Functionality** (after 7 days of closure).  
@@ -40,7 +40,7 @@ Built on **Salesforce Experience Cloud**, this solution streamlines the entire p
 
 ## 🛠️ Salesforce Components Used  
 - Experience Cloud Site  
-- Standard **Case Object** (with custom fields)  
+- Standard **Case Object** (custom fields)  
 - Screen Flows & Record-Triggered Flows  
 - Assignment Rules, Escalation Rules, Auto Response Rules  
 - Email Templates & Alerts  
@@ -80,7 +80,7 @@ Built on **Salesforce Experience Cloud**, this solution streamlines the entire p
 - Success & Error Screens  
 - Reports & Dashboards  
 
-(*Add screenshots in a `/screenshots` folder in this repo*)  
+(view in screenshots file)  
 
 ---
 
